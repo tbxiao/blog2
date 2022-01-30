@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: 涉
+  site_title: Xiao
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,14 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+#    - title: 'Contact'
+#      url: '/contact'
 
 footer_settings:
   logo_image: 
@@ -35,7 +35,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://instagram.com/vavrines'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
